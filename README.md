@@ -1,2 +1,2 @@
-# nc-data-scraping
+# data-scraping
 testing github scraping!
